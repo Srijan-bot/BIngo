@@ -1,0 +1,5 @@
+{
+  "name": "Multiplayer Online Bingo Game",
+  "description": "A fully functional multiplayer Bingo game using React for real-time play. Players get a random 5x5 board and take turns calling numbers. The first to complete 5 lines wins!",
+  "requestFramePermissions": []
+}
